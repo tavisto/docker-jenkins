@@ -1,3 +1,7 @@
+## 0.5.0
+  * Changed over to using the jenkins deb package
+  * Upgraded to 14.04
+
 ## 0.4.0
   * Upgrade to Jenkins 1.551
   * Simplify exposed volume to /jenkins
